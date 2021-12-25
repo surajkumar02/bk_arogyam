@@ -43,7 +43,7 @@ Run the Server:
             
           
           
-urls:
+urls:(tested by Postman)
 
    http://localhost:8000/ 
    APIs:
